@@ -1,5 +1,5 @@
 # PERFIL_KAUA
-### Boas vindas ao meu perfil :blue_heart:
+### Boas vindas ao meu perfil 💜💜
 Meu nome é Kauã meireles
 
 - Estou estudando na Alura (https://www.alura.com.br)

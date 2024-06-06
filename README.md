@@ -9,5 +9,3 @@ Meu nome é Kauã meireles
 
 meirelesdasilvakaua@gmail.com
 @kauameireles17
-
-![descrição do GIF](link GIF do Tenor)
